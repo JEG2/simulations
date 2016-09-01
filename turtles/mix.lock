@@ -1,0 +1,2 @@
+%{"canvas": {:hex, :canvas, "0.0.1", "4ec7e9f009081e05a08bdba59893f0a5706c7fd8edfef0ddc81d50a5a10293d2", [:mix], [{:wx_utils, "~> 0.0.2", [hex: :wx_utils, optional: false]}]},
+  "wx_utils": {:hex, :wx_utils, "0.0.2", "6b3ee8376cf122b0fdbf3f8f511b8083097488aff6d0eb626b97624765ffdf66", [:mix], []}}
